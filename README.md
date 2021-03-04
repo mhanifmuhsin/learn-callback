@@ -7,4 +7,6 @@ jQuery
 
 Bootstrap
 
+Fetch
+
 Web Programming UNPAS (Javascript Lanjutan)
